@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name learnAngularApp
+ * @name learnangularApp
  * @description
- * # learnAngularApp
+ * # learnangularApp
  *
  * Main module of the application.
  */
 angular
-  .module('learnAngularApp', [
+  .module('learnangularApp', [
     'ngAnimate',
     'ngAria',
     'ngCookies',

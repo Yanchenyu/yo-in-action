@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name learnAngularApp.controller:MainCtrl
+ * @name learnangularApp.controller:MainCtrl
  * @description
  * # MainCtrl
- * Controller of the learnAngularApp
+ * Controller of the learnangularApp
  */
-angular.module('learnAngularApp')
+angular.module('learnangularApp')
   .controller('MainCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
